@@ -1,4 +1,3 @@
 
-print "hello world"
-PRINT "HELLO WORLD"
+print "hel"
 
